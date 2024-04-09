@@ -6,3 +6,4 @@ This is a repo that has all my solves questions on leetcode website.
 
 - [Contains Duplicate](https://leetcode.com/submissions/detail/1222134269/)
 - [Valid Anagram](https://leetcode.com/submissions/detail/1222169904/)
+- [Two Sum](https://leetcode.com/submissions/detail/1228081725/)
