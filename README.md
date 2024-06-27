@@ -9,3 +9,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Two Sum](https://leetcode.com/submissions/detail/1228081725/)
 - [DuplicateZeros](https://leetcode.com/submissions/detail/1250405809/)
 - [Merge Sorted Array](https://leetcode.com/submissions/detail/1302184322/)
+- [Remove Element](https://leetcode.com/submissions/detail/1302395215/)
