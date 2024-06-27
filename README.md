@@ -8,3 +8,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Valid Anagram](https://leetcode.com/submissions/detail/1222169904/)
 - [Two Sum](https://leetcode.com/submissions/detail/1228081725/)
 - [DuplicateZeros](https://leetcode.com/submissions/detail/1250405809/)
+- [Merge Sorted Array](https://leetcode.com/submissions/detail/1302184322/)
