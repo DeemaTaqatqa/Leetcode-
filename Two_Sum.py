@@ -1,5 +1,5 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(nums, target):
         hashTable= {} # val: index
         for i, n in enumerate(nums):
             diff= target -n  # get the differnce for 

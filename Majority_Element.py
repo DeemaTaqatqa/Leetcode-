@@ -1,6 +1,6 @@
 import collections
 
-# O(n) for time and O(1) for space no extra space
+# O(n) for time and O(1) for space no extra space using Boyer Moore Algorithem
 def majorityElement(nums):
     count= 0
     candiate= None

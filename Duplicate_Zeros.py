@@ -1,5 +1,5 @@
 class Solution:
-    def duplicateZeros(self, arr: List[int]) -> None:
+    def duplicateZeros(arr):
         """
         Do not return anything, modify arr in-place instead.
         """
