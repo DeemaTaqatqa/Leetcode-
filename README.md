@@ -16,3 +16,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Best Time to Buy and Sell Stock](https://leetcode.com/submissions/detail/1307475212/)
 - [Roman To Integer](https://leetcode.com/submissions/detail/1333503054/)
 - [Valid Palindrome](https://leetcode.com/submissions/detail/1335228572/)
+- [Is Subsequence](https://leetcode.com/submissions/detail/1336132095/)
