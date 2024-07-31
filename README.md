@@ -19,3 +19,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Is Subsequence](https://leetcode.com/submissions/detail/1336132095/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/submissions/detail/1336368074/)
 - [Rotate Array](https://leetcode.com/submissions/detail/1336508370/)
+- [Max Consecutive Ones](https://leetcode.com/submissions/detail/1339986413/)
