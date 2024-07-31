@@ -21,3 +21,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Rotate Array](https://leetcode.com/submissions/detail/1336508370/)
 - [Max Consecutive Ones](https://leetcode.com/submissions/detail/1339986413/)
 - [Find Numbers with Even Number of Digits](https://leetcode.com/submissions/detail/1340023641/)
+- [Squares of a Sorted Array](https://leetcode.com/submissions/detail/1340035917/)
