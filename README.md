@@ -25,3 +25,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Check If N and Its Double Exist](https://leetcode.com/submissions/detail/1342308125/)
 - [Valid Mountain Array](https://leetcode.com/submissions/detail/1342332158/)
 - [Replace Elements with Greatest Element on Right Side](https://leetcode.com/submissions/detail/1345915349/)
+- [Ransom Note](https://leetcode.com/submissions/detail/1369764424/)
