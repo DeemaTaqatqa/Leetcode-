@@ -28,3 +28,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Ransom Note](https://leetcode.com/submissions/detail/1369764424/)
 - [Isomorphic Strings](https://leetcode.com/submissions/detail/1392162433/)
 - [Happy Number](https://leetcode.com/submissions/detail/1394638765/)
+- [Group Anagrams](https://leetcode.com/submissions/detail/1463710125/)
