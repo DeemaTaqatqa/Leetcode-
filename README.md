@@ -31,3 +31,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Group Anagrams](https://leetcode.com/submissions/detail/1463710125/)
 - [Top K Frequent Elements](https://leetcode.com/submissions/detail/1464509216/)
 - [Product of Array Except Self](https://leetcode.com/submissions/detail/1465350876/)
+- [Valid Parentheses](https://leetcode.com/submissions/detail/1466085907/)
