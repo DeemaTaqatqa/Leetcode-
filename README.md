@@ -34,3 +34,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Valid Parentheses](https://leetcode.com/submissions/detail/1466085907/)
 - [Valid Sudoku](https://leetcode.com/submissions/detail/1466713900/)
 - [Longest Consecutive Sequence](https://leetcode.com/submissions/detail/1467690231/)
+- [Two Sum II - Input Array Is Sorted](https://leetcode.com/submissions/detail/1467736613/)
