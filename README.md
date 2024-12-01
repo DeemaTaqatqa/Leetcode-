@@ -33,3 +33,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Product of Array Except Self](https://leetcode.com/submissions/detail/1465350876/)
 - [Valid Parentheses](https://leetcode.com/submissions/detail/1466085907/)
 - [Valid Sudoku](https://leetcode.com/submissions/detail/1466713900/)
+- [Longest Consecutive Sequence](https://leetcode.com/submissions/detail/1467690231/)
