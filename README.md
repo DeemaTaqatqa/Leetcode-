@@ -38,3 +38,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Three Sum](https://leetcode.com/submissions/detail/1468631336/)
 - [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/submissions/detail/1468643363/)
 - [Container With Most Water](https://leetcode.com/submissions/detail/1469482334/)
+- [Find the Index of the First Occurrence in a String](https://leetcode.com/submissions/detail/1469535072/)
