@@ -40,3 +40,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Container With Most Water](https://leetcode.com/submissions/detail/1469482334/)
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/submissions/detail/1469535072/)
 - [Min Stack](https://leetcode.com/submissions/detail/1470273266/)
+- [Evaluate Reverse Polish Notation](https://leetcode.com/submissions/detail/1470279749/)
