@@ -43,3 +43,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Evaluate Reverse Polish Notation](https://leetcode.com/submissions/detail/1470279749/)
 - [Daily Temperatures](https://leetcode.com/submissions/detail/1471336649/)
 - [Binary Search](https://leetcode.com/submissions/detail/1471338257/)
+- [Search a 2D Matrix](https://leetcode.com/submissions/detail/1471340937/)
