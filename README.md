@@ -45,3 +45,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Binary Search](https://leetcode.com/submissions/detail/1471338257/)
 - [Search a 2D Matrix](https://leetcode.com/submissions/detail/1471340937/)
 - [Car Fleet](https://leetcode.com/submissions/detail/1474696668/)
+- [Reverse Linked List](https://leetcode.com/submissions/detail/1474698257/)
