@@ -48,3 +48,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Reverse Linked List](https://leetcode.com/submissions/detail/1474698257/)
 - [Longest Substring Without Repeating Characters](https://leetcode.com/submissions/detail/1475597041/)
 - [Merge Two Sorted Linked Lists](https://leetcode.com/submissions/detail/1475598796/)
+- [Word Pattern] (https://leetcode.com/submissions/detail/1490895458/)
