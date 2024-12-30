@@ -50,3 +50,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Merge Two Sorted Linked Lists](https://leetcode.com/submissions/detail/1475598796/)
 - [Word Pattern](https://leetcode.com/submissions/detail/1490895458/)
 - [Remove Nth Node From End of List](https://leetcode.com/submissions/detail/1491862911/)
+- [Longest Common Prefix](https://leetcode.com/submissions/detail/1492836669/)
