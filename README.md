@@ -52,3 +52,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Remove Nth Node From End of List](https://leetcode.com/submissions/detail/1491862911/)
 - [Longest Common Prefix](https://leetcode.com/submissions/detail/1492836669/)
 - [Best Time to Buy and Sell Stock II](https://leetcode.com/submissions/detail/1493587761/)
+- [H-Index](https://leetcode.com/submissions/detail/1495047101/)
