@@ -1,13 +1,10 @@
 def removeDuplicates(nums):
-    p1=0
-    p2=1
-    while(p1<p2 and p2<len(nums)):
-        if(nums[p1] == nums[p2]):
-            del nums[p2]
-        else:
-            p1+=1
-            p2+=1
-    return len(nums)
+    l = 1
+    for r in range(1,len(nums)):
+        if nums[r] != nums[r-1]:
+            nums[l] = nums[r]
+            l += 1 
+    return l
 
 
 
