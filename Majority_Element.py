@@ -18,3 +18,4 @@ print(k)
 # O(n) for time and O(n) for space
 # counts= collections.Counter(nums)
 # return max (counts.keys(), key=counts.get) 
+# but this is O(n) and no extra space
