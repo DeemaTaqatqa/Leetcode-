@@ -1,6 +1,22 @@
 def sortedSquares(nums):
-    return sorted(x**2 for x in nums)
-
+    res = [0] * len(nums)
+    l=0
+    r= len(nums) -1
+    pos = r
+    while l <= r :
+        if abs(nums[l]) > abs(nums[r]):
+           res[pos] = (nums[l] **2)
+           l += 1
+        else:
+            res[pos] = (nums[r] **2)
+            r -= 1
+        pos -= 1
+    return res
+            
+            
+            
+            
+        
 nums = [-4,-1,0,3,10]
 print(sortedSquares(nums))
 
