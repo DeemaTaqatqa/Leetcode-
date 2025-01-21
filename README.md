@@ -27,7 +27,7 @@ This is a repo that has all my solved questions on leetcode website.
 - [Replace Elements with Greatest Element on Right Side](https://leetcode.com/submissions/detail/1345915349/)
 - [Ransom Note](https://leetcode.com/submissions/detail/1369764424/)
 - [Isomorphic Strings](https://leetcode.com/submissions/detail/1392162433/)
-- [Happy Number](https://leetcode.com/submissions/detail/1394638765/)
+- [Happy Number](https://leetcode.com/submissions/detail/1516227542/)
 - [Group Anagrams](https://leetcode.com/submissions/detail/1463710125/)
 - [Top K Frequent Elements](https://leetcode.com/submissions/detail/1464509216/)
 - [Product of Array Except Self](https://leetcode.com/submissions/detail/1465350876/)
