@@ -1,11 +1,10 @@
 def checkIfExist(arr):
-    if len(arr) == 0 or arr == 0:
-        return False
-
-    for i in range(len(arr)):
-        for j in range(len(arr)):
-            if i != j and (arr[i] == 2 * arr[j] or arr[i]/2 == arr[j]):
-                return True
+    seen =set()
+    for num in arr:
+        # to cover the 2 case from two dirctions and in division case it must be even number there no doubles for odd
+        if 2 * num in seen or (num % 2 == 0 and num // 2 in seen):
+            return True
+        seen.add(num)
     return False
 
 
