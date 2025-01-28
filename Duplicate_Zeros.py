@@ -1,14 +1,20 @@
-class Solution:
-    def duplicateZeros(arr):
-        """
-        Do not return anything, modify arr in-place instead.
-        """
-        length= len(arr)
-        i=0
-        while(i<length):
-            if arr[i] == 0:
-                arr.insert(i+1,0)
-                i+=1
-            i+=1
-        del arr[length:]
+def duplicateZeros(arr):
+    n = len(arr)
+    zeros = arr.count(0)  # Count zeros to determine the final shift
+    
+    # Iterate from the end of the array
+    for i in range(n - 1, -1, -1):
+        # Check if the position after shifting is within bounds
+        if i + zeros < n:
+            arr[i + zeros] = arr[i]
+        
+        # If the element is zero, we need to duplicate it
+        if arr[i] == 0:
+            zeros -= 1
+            if i + zeros < n:
+                arr[i + zeros] = 0
 
+# Test it
+arr = [1, 0, 2, 3, 0, 4, 5, 0]
+duplicateZeros(arr)
+print(arr)  # Output: [1, 0, 0, 2, 3, 0, 0, 4]
