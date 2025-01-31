@@ -18,7 +18,7 @@ This is a repo that has all my solved questions on leetcode website.
 - [Valid Palindrome](https://leetcode.com/submissions/detail/1335228572/)
 - [Is Subsequence](https://leetcode.com/submissions/detail/1336132095/)
 - [Remove Duplicates from Sorted Array II](https://leetcode.com/submissions/detail/1336368074/)
-- [Rotate Array](https://leetcode.com/submissions/detail/1336508370/)
+- [Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1526836715/)
 - [Max Consecutive Ones](https://leetcode.com/submissions/detail/1339986413/)
 - [Find Numbers with Even Number of Digits](https://leetcode.com/submissions/detail/1506617420/)
 - [Squares of a Sorted Array](https://leetcode.com/submissions/detail/1511863749/)
