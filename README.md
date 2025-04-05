@@ -54,3 +54,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [Best Time to Buy and Sell Stock II](https://leetcode.com/submissions/detail/1493587761/)
 - [H-Index](https://leetcode.com/submissions/detail/1495047101/)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/submissions/detail/1495343144/)
+- [Plus One](https://leetcode.com/submissions/detail/1597839148/)
