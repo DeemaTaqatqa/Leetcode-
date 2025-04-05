@@ -55,3 +55,4 @@ This is a repo that has all my solved questions on leetcode website.
 - [H-Index](https://leetcode.com/submissions/detail/1495047101/)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/submissions/detail/1495343144/)
 - [Plus One](https://leetcode.com/submissions/detail/1597839148/)
+- [Missing Number](https://leetcode.com/submissions/detail/1597867206/)
