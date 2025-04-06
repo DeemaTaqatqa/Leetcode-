@@ -70,4 +70,12 @@ This is a repo that has all my solved questions on leetcode website.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
