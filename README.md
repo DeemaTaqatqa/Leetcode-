@@ -78,4 +78,16 @@ This is a repo that has all my solved questions on leetcode website.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
