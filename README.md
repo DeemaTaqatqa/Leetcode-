@@ -73,6 +73,7 @@ This is a repo that has all my solved questions on leetcode website.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Dynamic Programming
@@ -94,5 +95,6 @@ This is a repo that has all my solved questions on leetcode website.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
