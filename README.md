@@ -99,4 +99,20 @@ This is a repo that has all my solved questions on leetcode website.
 | [0033-search-in-rotated-sorted-array](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
