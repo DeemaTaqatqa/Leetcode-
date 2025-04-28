@@ -11,8 +11,12 @@ class Solution:
                 return [True,0]
             
             left = dfs(root.left)
+            if not left[0]:
+                return [False,0]
             right = dfs(root.right)
-            balanced = right[0] and left[0] and (abs(left[1] - right[1]) <= 1)
+            if not right[0]:
+                return [False, 0]
+            balanced = (abs(left[1] - right[1]) <= 1)
 
             return [balanced, 1 + max(left[1],right[1])]
         
