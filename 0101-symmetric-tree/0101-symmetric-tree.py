@@ -8,14 +8,13 @@ class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         if not root:
             return True
-        
-        def isMirror(t1: Optional[TreeNode], t2: Optional[TreeNode]) -> bool:
-            if not t1 and not t2:
+
+        def isMirror(p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
+            if not p and not q:
                 return True
-            if not t1 or not t2:
+            if p and q and p.val == q.val:
+                return isMirror(p.left, q.right) and isMirror(p.right, q.left)
+            else:
                 return False
-            return (t1.val == t2.val and
-                    isMirror(t1.left, t2.right) and
-                    isMirror(t1.right, t2.left))
-        
+
         return isMirror(root.left, root.right)
