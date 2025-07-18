@@ -6,18 +6,19 @@
 #         self.right = right
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-        preIdx = inIdx = 0
-        def dfs(limit):
-            nonlocal preIdx, inIdx
-            if preIdx >= len(preorder):
+        pre_index = 0  # local variable
+        idx_map = {val: idx for idx, val in enumerate(inorder)}
+
+        def dfs(l, r):
+            nonlocal pre_index  # brings pre_index from enclosing scope
+            if l > r:
                 return None
-            if inorder[inIdx] == limit:
-                inIdx += 1
-                return None
-            
-            root = TreeNode(preorder[preIdx])
-            preIdx += 1
-            root.left = dfs(root.val)
-            root.right = dfs(limit)
+            root_val = preorder[pre_index]
+            pre_index += 1
+            root = TreeNode(root_val)
+            mid = idx_map[root_val]
+            root.left = dfs(l, mid - 1)
+            root.right = dfs(mid + 1, r)
             return root
-        return dfs(float('inf'))
+
+        return dfs(0, len(inorder) - 1)
