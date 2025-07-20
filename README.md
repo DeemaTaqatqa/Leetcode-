@@ -101,6 +101,7 @@ This is a repo that has all my solved questions on leetcode website.
 | [0033-search-in-rotated-sorted-array](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
 | ------- |
@@ -113,6 +114,7 @@ This is a repo that has all my solved questions on leetcode website.
 | [0110-balanced-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -158,6 +160,7 @@ This is a repo that has all my solved questions on leetcode website.
 | [0110-balanced-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -182,4 +185,8 @@ This is a repo that has all my solved questions on leetcode website.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
