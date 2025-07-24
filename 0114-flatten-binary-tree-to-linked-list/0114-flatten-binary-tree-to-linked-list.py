@@ -9,19 +9,23 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        self.prev = None  # Pointer to keep track of previous node
+        if not root:
+            return
         
-        def dfs(node):
-            if not node:
-                return
-            
-            # Reverse post-order: right -> left -> root
-            dfs(node.right)
-            dfs(node.left)
-            
-            # Rewire the pointers
-            node.right = self.prev
-            node.left = None
-            self.prev = node
+        # Store original left and right before changing
+        left = root.left
+        right = root.right
         
-        dfs(root)
+        # Set left to None and move left to right
+        root.left = None
+        
+        # Recursively flatten left and attach to right
+        self.flatten(left)
+        self.flatten(right)
+        
+        if left:
+            root.right = left
+            current = root.right
+            while current.right:
+                current = current.right
+            current.right = right
