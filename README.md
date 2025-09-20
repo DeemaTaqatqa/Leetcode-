@@ -80,6 +80,7 @@ This is a repo that has all my solved questions on leetcode website.
 | [0040-combination-sum-ii](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -98,6 +99,7 @@ This is a repo that has all my solved questions on leetcode website.
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -139,6 +141,7 @@ This is a repo that has all my solved questions on leetcode website.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0101-symmetric-tree) |
@@ -234,5 +237,10 @@ This is a repo that has all my solved questions on leetcode website.
 | [0040-combination-sum-ii](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
