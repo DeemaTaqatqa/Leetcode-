@@ -90,6 +90,7 @@ This is a repo that has all my solved questions on leetcode website.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This is a repo that has all my solved questions on leetcode website.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -239,6 +241,7 @@ This is a repo that has all my solved questions on leetcode website.
 | [0078-subsets](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
