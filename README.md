@@ -89,6 +89,7 @@ This is a repo that has all my solved questions on leetcode website.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
@@ -102,6 +103,7 @@ This is a repo that has all my solved questions on leetcode website.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
@@ -238,6 +240,7 @@ This is a repo that has all my solved questions on leetcode website.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0046-permutations) |
