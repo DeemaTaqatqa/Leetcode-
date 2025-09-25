@@ -2,14 +2,17 @@ class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         res = []
 
-        def backtrack(start, path):
-            if len(path) == k:
-                res.append(path[:])
-                return
-            for i in range(start, n + 1):
-                path.append(i)            # Choose
-                backtrack(i + 1, path)   # Explore
-                path.pop()               # Un-choose
+        def backtrack(subset, start):
 
-        backtrack(1, [])
+            if k == len(subset):
+                res.append(subset[:])
+                return
+
+            for i in range(start,n):
+                subset.append(i+1)
+                backtrack(subset, i+1)
+                subset.pop()
+        
+        backtrack([],0)
+
         return res
