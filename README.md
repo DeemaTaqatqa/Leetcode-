@@ -87,6 +87,7 @@ This is a repo that has all my solved questions on leetcode website.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +168,7 @@ This is a repo that has all my solved questions on leetcode website.
 | [0543-diameter-of-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -182,6 +184,7 @@ This is a repo that has all my solved questions on leetcode website.
 | [0226-invert-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -257,8 +260,10 @@ This is a repo that has all my solved questions on leetcode website.
 | ------- |
 | [0079-word-search](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/DeemaTaqatqa/Leetcode-/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
